@@ -1,0 +1,17 @@
+.carousel-wrapper {
+  background-color: #444;
+}
+.carousel-wrapper .carousel {
+  margin: 0 auto;
+  background-color: #666;
+}
+.carousel-wrapper .carousel .carousel-item {
+  width: 100%;
+  height: 300px;
+}
+.carousel-wrapper .carousel .carousel-item img {
+  display: block;
+  max-height: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+}
